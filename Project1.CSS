@@ -1,4 +1,4 @@
-body {
+#contactspage {
 	  background-color: olive;
 }
 
@@ -10,9 +10,7 @@ body {
 }
 
 #contactspage {
-	        background-image: url("contactsbackground.jpg");
-	        background-repeat: no-repeat;
-	        background-position: fixed;
+	        background: url("https://s-media-cache-ak0.pinimg.com/736x/6f/ab/e8/6fabe8b3df72a8fd4249dac623db7610.jpg") no-repeat center center fixed;
 	        background-size: cover;
 }
 
