@@ -2,20 +2,9 @@
 	  background-color: olive;
 }
 
-#Home-page {
-	        background-image: url("Kayakbackground.jpg");
-	        background-repeat: no-repeat;
-	        background-position: fixed;
-	        background-size: cover;
-}
 
 #contactspage {
 	        background: url("https://s-media-cache-ak0.pinimg.com/736x/6f/ab/e8/6fabe8b3df72a8fd4249dac623db7610.jpg") no-repeat center center fixed;
-	        background-size: cover;
-}
-
-#aboutpage {
-	        background: url("http://img.mota.ru/upload/wallpapers/source/2010/07/23/11/04/22558/mota_ru_0072301.jpg") no-repeat center center fixed;
 	        background-size: cover;
 }
 
