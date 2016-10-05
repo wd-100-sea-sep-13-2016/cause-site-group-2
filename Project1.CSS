@@ -58,12 +58,19 @@ li a:hover {
 
 p {
    color: gold;
+   width: 400px;
 }
 
 h1 {
 	color: black;
 }
 
+#p1 {
+	 border-top: double 5px;
+	 border-bottom: double 5px;
+	 background-color: tan;
+	 width: 450px;
+}
 
 
 
