@@ -1,0 +1,71 @@
+body {
+	  background-color: olive;
+}
+
+#Home-page {
+	        background-image: url("Kayakbackground.jpg");
+	        background-repeat: no-repeat;
+	        background-position: fixed;
+	        background-size: cover;
+}
+
+#contactspage {
+	        background-image: url("contactsbackground.jpg");
+	        background-repeat: no-repeat;
+	        background-position: fixed;
+	        background-size: cover;
+}
+
+#aboutpage {
+	        background-image: url("kayak.jpg");
+	        background-repeat: no-repeat;
+	        background-position: fixed;
+	        background-size: cover;
+}
+
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: black;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	  display:block;
+	  color: grey;
+	  text-align: center;
+	  padding: 14px 16px;
+	  text-decoration: none;
+}
+
+li a:hover {
+	  background-color: white;
+}
+
+.active {
+	  background-color: white;
+}
+
+#contacts {
+	  float: right;
+}
+
+p {
+   color: gold;
+}
+
+h1 {
+	color: black;
+}
+
+
+
+
+
+	
