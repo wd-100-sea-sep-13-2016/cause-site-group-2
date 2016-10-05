@@ -57,7 +57,8 @@ li a:hover {
 }
 
 p {
-   color: gold;
+   color: black;
+   width: 700px;
 }
 
 h1 {
@@ -67,6 +68,12 @@ h2 {
 	color: lightblue;
 }
 
+#p1 {
+	 border-top: double 5px;
+	 border-bottom: double 5px;
+	 background-color: tan;
+	 width: 720px;
+}
 
 
 
