@@ -29,6 +29,11 @@ li a:hover {
 
 h1 {
 	color: white;
+	border: inset;
+	border-width: 3px;
+	margin: 10px;
+	background-color: black;
+	display: inline;
 }
 
 h2 {
