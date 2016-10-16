@@ -1,5 +1,6 @@
 body {
 	background-color: lightblue;
+	margin:0;
 }
 
 #box-1 {
@@ -50,7 +51,7 @@ p.p-1 {
 	font-size: 25px;
 }
 
-#Nav-bar {
+#nav-bar {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -74,7 +75,7 @@ li a {
 }
 
 li a:hover:not(.select) {
-    background-color: #111;
+    background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
 }
 
 .select {
