@@ -51,13 +51,17 @@ p.p-1 {
 	font-size: 25px;
 }
 
+h1 {
+	margin-top: 50px;
+}
+
 #nav-bar {
+	position: fixed;
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #333;
-    position: fixed;
     top: 0;
     width: 100%;
 }
@@ -75,7 +79,7 @@ li a {
 }
 
 li a:hover:not(.select) {
-    background: linear-gradient(to right,black,green);
+    background: linear-gradient(to right,black,green,yellow);
 }
 
 .select {
