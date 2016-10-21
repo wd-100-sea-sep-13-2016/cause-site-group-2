@@ -1,6 +1,5 @@
 body {
 	background-color: lightblue;
-	margin:0;
 }
 
 #box-1 {
@@ -61,7 +60,7 @@ h1 {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: grey;
     top: 0;
     width: 100%;
 }
@@ -79,7 +78,7 @@ li a {
 }
 
 li a:hover:not(.select) {
-    background: linear-gradient(to right,black,green,yellow);
+    background: linear-gradient(to right,grey,purple,green);
 }
 
 .select {
