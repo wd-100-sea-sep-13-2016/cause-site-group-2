@@ -1,3 +1,7 @@
+body {
+    background-color: blue;
+}
+
 #nav_bar {
 	position: fixed;
     list-style-type: none;
