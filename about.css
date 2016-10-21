@@ -1,3 +1,77 @@
+<<<<<<< HEAD
 ﻿body {
 	background-color: blue;
 }
+=======
+body {
+	background: url(smoke-fluffy.jpg) no-repeat center center fixed;
+	background-size: cover;
+    z-index: -1;
+}
+
+h1 {
+	color: lightblue;
+	float: left;
+	margin-top: 50px;
+}
+
+#nav_bar {
+	position: fixed;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+    top: 0;
+    width: 100%;
+    z-index: 99999;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.select) {
+    background: linear-gradient(to right,grey,purple,green);
+}
+
+.select {
+    background-color: #4CAF50;
+}
+
+#left_div_1 {
+	display: inline-block;
+	border: double;
+	height: 700px;
+	width: 10%;
+	background-color: black;
+	opacity: 0.7;
+
+}
+
+#middle_div_main_content_2 {
+	display: inline-block;
+	border: double;
+	height: 700px;
+	width: 80%;
+	background-color: black;
+	opacity: 0.7;
+}
+
+#right_div_3 {
+	display: inline-block;
+	border: double;
+	height: 700px;
+	width: 10%;
+	background-color: black;
+	opacity: 0.7;
+}
+>>>>>>> b831417425525b124858c3e9983cee99a644f654
