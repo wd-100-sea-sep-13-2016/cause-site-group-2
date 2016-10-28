@@ -37,3 +37,9 @@ li a:hover:not(.select) {
 .yourmom {
     float: right;
 }
+
+#btn {
+    text-align: center;
+    margin-top: 50%;
+    margin-bottom: 50%;
+}

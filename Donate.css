@@ -3,7 +3,7 @@ body {
 }
 
 #nav_bar {
-	position: fixed;
+    position: fixed;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -50,8 +50,4 @@ img {
 
 .yourmom {
     float: right;
-}
-
-#button {
-    text-align: center;
 }

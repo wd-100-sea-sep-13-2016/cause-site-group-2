@@ -95,7 +95,7 @@ div {
     height: 100px;
     background: #f00;
     animation-name: spin;
-    animation-duration: 4000ms;
+    animation-duration: 2000ms;
     animation-iteration-count: 1;
     animation-timing-function: linear;
 }
