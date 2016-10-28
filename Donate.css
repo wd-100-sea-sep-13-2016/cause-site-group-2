@@ -34,13 +34,12 @@ li a:hover:not(.select) {
     background-color: #4CAF50;
 }
 
-<<<<<<< HEAD
-img {
-    
+img {   
     width: 100%;
-    height: 125px;
-=======
-.yourmom{
+    height: 150px;
+    margin-top : 15px;
+}
+
+.yourmom {
     float: right;
->>>>>>> 7e649edf7150be241bae63af99d905bc829eb069
 }
