@@ -84,3 +84,7 @@ li a:hover:not(.select) {
 .select {
     background-color: #4CAF50;
 }
+
+.yourmom {
+	float: right;
+}
