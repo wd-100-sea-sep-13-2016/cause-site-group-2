@@ -33,3 +33,9 @@ li a:hover:not(.select) {
 .select {
     background-color: #4CAF50;
 }
+
+img {
+    
+    width: 100%;
+    height: 125px;
+}
